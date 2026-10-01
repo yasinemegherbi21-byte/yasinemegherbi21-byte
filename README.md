@@ -2,7 +2,7 @@
 
 Data & AI Engineer passionate about building scalable data pipelines, analytics solutions, and AI-powered applications.
 
-Executive Master's in Big Data & AI (UIR)
+Master's in Big Data & AI (UIR)
 
 Location: Morocco
 
