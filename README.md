@@ -1,82 +1,25 @@
-# Hi, I'm Yassine Megherbi
+# Hi, I'm Yassine
 
-Data & AI Engineer passionate about building scalable data pipelines, analytics solutions, and AI-powered applications.
+I build data pipelines and AI tools, mostly around Python, SQL and PostgreSQL. I'm based in Rabat, Morocco, finishing an Executive Master in Big Data & AI at UIR (January 2027), and my next step is a Data Engineering master's in France in 2027, ideally in alternance.
 
-Master's in Big Data & AI (UIR)
+Before data I worked in customer and technical support and taught English, so I'm used to explaining technical things to people who don't care about the technical part.
 
-Location: Morocco
+## What I'm working on
 
-## Current Focus
+**[Morocco AFCON 2025 & World Cup 2030 pipeline](https://github.com/yasinemegherbi21-byte/morocco-afcon-worldcup-economic-pipeline)** – World Bank API + curated infrastructure data → Pandas → PostgreSQL, orchestrated with Airflow, explored in a Streamlit dashboard. Everything starts with one `docker compose up`.
 
-- Data Engineering
-- AI Engineering
-- Retrieval-Augmented Generation (RAG)
-- LLM-Based Applications
-- Big Data Technologies
+**[Rain and the economy](https://github.com/yasinemegherbi21-byte/Morocco-Macroeconomic-ETL)** – how droughts show up in Morocco's GDP and unemployment. World Bank data, a PySpark loader, PostgreSQL, and an honest attempt at predicting unemployment (spoiler: the models don't beat the average, and the README says why).
 
-## Tech Stack
+**V-END** – an AI document platform I started in December 2025: FastAPI + PostgreSQL backend, Next.js frontend, RAG pipeline (PDF extraction, chunking, embeddings, ChromaDB) with answers that cite their sources, plus rule-based checks on document codes and revisions. Code coming to GitHub soon.
 
-### Data Engineering
-- Python
-- SQL
-- PostgreSQL
-- Docker
-- Apache Airflow
-- Pandas
+**[E-commerce customers](https://github.com/yasinemegherbi21-byte/Clients-E-Commerce)** – a small regression exercise: should a retailer invest in its app or its website?
 
-### AI & Machine Learning
-- Scikit-Learn
-- TensorFlow
-- NLP
-- RAG Systems
-- LLM Applications
+## Tools I use
 
-### Data Visualization
-- Streamlit
-- Power BI
-- Matplotlib
+Python (Pandas, SQLAlchemy, FastAPI) · SQL / PostgreSQL · Apache Airflow · Docker · PySpark · Streamlit / Plotly / Power BI · Scikit-learn · RAG, embeddings, LLM APIs · Git
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
-## Featured Projects
-
-### Morocco AFCON 2025 & FIFA World Cup 2030 Economic Impact Pipeline
-
-End-to-end Data Engineering project analyzing Morocco's economic indicators, tourism, infrastructure projects, and event readiness using ETL pipelines, PostgreSQL, Docker, Airflow, and Streamlit.
-
-### Morocco Economic Analytics Pipeline
-
-Data pipeline integrating World Bank economic indicators into PostgreSQL with analytics dashboards and automated processing.
-
-### Email Spam Classifier
-
-NLP project using TF-IDF and Random Forest for email classification.
-
-## Currently Learning
-
-- Apache Spark
-- Apache Kafka
-- AI Engineering
-- AI Agents
-- Cloud Technologies (AWS)
-
-## Open To
-
-- Data Engineer Opportunities
-- AI Engineer Opportunities
-- Machine Learning Roles
-- Internships and Graduate Programs
+Learning next: AWS, Kafka, dbt.
 
 ## Contact
 
-LinkedIn: (https://www.linkedin.com/in/yassine-megherbi-b7b277263/)
-
-Email: yasinemegherbi21@gmail.com
-
-<!--
-**yasinemegherbi21-byte/yasinemegherbi21-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[LinkedIn](https://www.linkedin.com/in/yassine-megherbi-b7b277263/) · yasinemegherbi21@gmail.com
